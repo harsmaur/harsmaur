@@ -61,6 +61,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+[![GitHub Streak](https://streak-stats.demolab.com?user=harsmaur&theme=vue-dark)](https://git.io/streak-stats)
 
 ###
 
