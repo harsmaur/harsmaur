@@ -29,7 +29,8 @@
 ###
 
 <div align="left">
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="52" alt="python logo"  />
   <img width="12" />
