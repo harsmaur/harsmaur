@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="52" alt="cplusplus logo"  />
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="52" alt="python logo"  />
   <img width="12" />
