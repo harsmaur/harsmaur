@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 An aspiring FullStack (MERN) Developer<br>- 📚 I'm currently learning MERN <br>- 🗣 Ask me about MERN <br>- ⚡ In my free time I sleep😁😴</p>
+<p align="left">- 🔭 An aspiring FullStack (MERN) Developer<br>- 📚 I'm a C++ Programmer <br>- 🗣 Ask me about MERN <br>- ⚡ In my free time I sleep😁😴</p>
 
 ###
 
