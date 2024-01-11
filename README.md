@@ -29,9 +29,9 @@
 ###
 
 <div align="left">
-   
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="52" alt="C++ logo"  />
+    <img width="12" />
+   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=for-the-badge" height="52" alt="c++ logo">
+ 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="52" alt="python logo"  />
   <img width="12" />
