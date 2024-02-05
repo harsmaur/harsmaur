@@ -74,7 +74,7 @@
  <br>
   <br>
   
-[![Harsh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harsmaur&theme=tokyonight)](https://git.io/praveenscience)
+[![Harsh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harsmaur&theme=tokyonight)](https://git.io/harsmaur)
 
  ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsmaur&show_icons=true&theme=tokyonight) | ![Harsh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsmaur&theme=tokyonight) |
 | --- | --- |
