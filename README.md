@@ -61,8 +61,8 @@
 </div>
 
 ###
-
-
+<h1>Check out some programming jokes.. </h1>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
@@ -74,13 +74,13 @@
  <br>
   <br>
   
-[![Harsh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harsmaur&theme=tokyonight)](https://git.io/harsmaur)
+
 
  ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsmaur&show_icons=true&theme=tokyonight) | ![Harsh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsmaur&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsmaur&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=harsmaur&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 
 <br>
